@@ -1,3 +1,5 @@
+package sorting;
+
 public class SelectionSort {
     public static void main(String[] args) {
         int[] testArray = {10, 2, 5, 4, 6, 7, 9, 1, 3, 8};
